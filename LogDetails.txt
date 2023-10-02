@@ -1,0 +1,5 @@
+﻿2023-10-02 15:48:32.9298 INFO addition of5and5is=10
+2023-10-02 15:48:42.3935 INFO addition of5and5is=10
+2023-10-02 15:48:57.6946 INFO addition of5and7is=12
+2023-10-02 15:49:42.0668 ERROR a and b values are zero
+2023-10-02 15:49:57.9223 ERROR a and b values are zero
